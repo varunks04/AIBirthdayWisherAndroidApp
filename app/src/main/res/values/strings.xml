@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AI Birthday Wisher</string>
+    <string name="splash_screen_title">Welcome to AI Birthday Wisher!</string>
+    <string name="home_title">Home</string>
+    <string name="cards_title">Birthday Cards</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="settings_title">Settings</string>
+    <string name="add_card">Add Birthday Card</string>
+    <string name="edit_card">Edit Birthday Card</string>
+    <string name="view_card">View Birthday Card</string>
+    <string name="no_birthdays">No birthdays found.</string>
+    <string name="birthday_message">Happy Birthday to you!</string>
+    <string name="notification_title">Birthday Reminder</string>
+    <string name="notification_message">Don't forget to wish your loved ones a happy birthday!</string>
+    <string name="settings_description">Manage your app settings here.</string>
+    <string name="calendar_description">View and manage upcoming birthdays.</string>
+</resources>

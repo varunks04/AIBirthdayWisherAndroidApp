@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.aibirthdaywisher.SplashActivity"
+        tools:layout="@layout/activity_splash" />
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.aibirthdaywisher.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/cardsFragment"
+        android:name="com.example.aibirthdaywisher.ui.cards.CardsFragment"
+        tools:layout="@layout/fragment_cards" />
+
+    <fragment
+        android:id="@+id/calendarFragment"
+        android:name="com.example.aibirthdaywisher.ui.calendar.CalendarFragment"
+        tools:layout="@layout/fragment_calendar" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.aibirthdaywisher.ui.settings.SettingsFragment"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

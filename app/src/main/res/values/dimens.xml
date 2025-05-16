@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="splash_logo_size">120dp</dimen>
+    <dimen name="bottom_nav_height">56dp</dimen>
+    <dimen name="calendar_item_height">48dp</dimen>
+    <dimen name="card_item_height">72dp</dimen>
+</resources>
